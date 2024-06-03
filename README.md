@@ -1,6 +1,6 @@
 ## Hello! I'm Calb.
 
-Non-native-english speaker! 
+Non-native english speaker! 
 
 - 🍵 I'm working in fullstack projects
 - 🌱 I’m currently learning Javascript, HTML/CSS, Node
