@@ -3,7 +3,7 @@
 Non-native english speaker! 
 
 - 🍵 I'm working in fullstack projects
-- 🌱 I’m currently learning Javascript, HTML/CSS, Node
+- 🌱 I’m currently learning Javascript, HTML/CSS, Node, React and React Native
 - 😄 Pronouns: he/him
 
 <div style="display: inline_block"><br>
