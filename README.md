@@ -1,4 +1,4 @@
-## Hello! You can call me by San or Calb.
+## Hello! You can call me San or Calb.
 
 🌍 Non-native English speaker!
 <br>
