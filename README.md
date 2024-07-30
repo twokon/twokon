@@ -1,4 +1,4 @@
-## Hello! You can call me San.
+## It's Gash profile!
 
 🌍 Non-native English speaker!
 <br>
