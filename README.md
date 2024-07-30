@@ -3,7 +3,7 @@
 🌍 Non-native English speaker!
 <br>
 - 🍵 This account is just for my studies.
-- 🧩 Currently, I'm working on back-end development with c#, and I'm starting game development with Godot.
+- 🧩 Currently, I'm working on back-end development with dotnet.
 Later, I will create a main profile. :)
 
 <div>
