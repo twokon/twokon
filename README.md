@@ -4,7 +4,7 @@
 <br>
 - 🍵 This account is just for my studies.
 - 🧩 Currently, I'm working on back-end and desktop development with Java!
-- 🎯 Spring Boot, Mysql, MongoDB, React.
+- 🎯 JavaScript, Angular, Spring, MySql, MongoDB, Docker.
 
 Later, I will create a main profile. :)
 <div>
